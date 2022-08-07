@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7e410e7bA28a0D78Fb90cBAdffE35FC5eE53637",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xb7e410e7ba28a0d78fb90cbadffe35fc5ee53637",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "The EYE NFT",
+  "SYMBOL": "YJ",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Rarible",
+  "MARKETPLACE_LINK": "https://testnet.rarible.com/collection/polygon/0xb7e410e7ba28a0d78fb90cbadffe35fc5ee53637/items",
+  "SHOW_BACKGROUND": false
+}
